@@ -1,0 +1,16 @@
+{
+  "name": "node_local_server_ex_01",
+  "version": "1.0.0",
+  "description": "to create local serever using node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vijay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
